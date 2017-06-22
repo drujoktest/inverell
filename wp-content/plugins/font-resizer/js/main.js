@@ -1,3 +1,3 @@
-jQuery(document).ready(function(){
-	jQuery(".fontResizer").fontresizermanager();
-});
+jQuery(document).ready(function(){
+	jQuery(".fontResizer").fontresizermanager();
+});
